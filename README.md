@@ -1,4 +1,4 @@
-## 👋 Hi there, I’m Nidal.
+## 👋 Hi there, I’m Eli.
 
 ### Founder and Software Architect at [Codrlabs Solutions](https://codrlabs.com)
 
