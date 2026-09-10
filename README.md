@@ -29,7 +29,7 @@ Music has always been a parallel passion. As founder and lead guitarist of **Edm
 
 Active contributor to [Nasqueron](https://devcentral.nasqueron.org/), supporting open-source projects and collaborative development.
 
-**[Codrlabs Open](https://github.com/codrlabs)** — Open-sourcing projects, mentoring developers, and building community. Currently working on **healcode** and other initiatives to help people grow their skills.
+**[Codrlabs Open](https://github.com/codrlabs)** — Open-sourcing projects, mentoring developers, and building community. Currently working on **Vizably** and other initiatives to help people grow their skills.
 
 ## 📫 Let's Connect
 
