@@ -1,12 +1,12 @@
 # Hi, I'm Eli 👋
 
-**CTO & Founder** at [Codrlabs Solutions](https://codrlabs.com) • **Full-Stack Developer** • **Musician**
+**CTO & Founder** at [Codrlabs](https://codrlabs.com) • **Full-Stack Developer** • **Musician**
 
 Building software that solves real problems. Leading an experimental music project. Writing about tech and creativity.
 
 ## 🚀 What I'm Working On
 
-**[Codrlabs Solutions](https://codrlabs.com)** — Custom software development for small businesses and creators. We build web apps, mobile solutions, and digital products that help our clients grow.
+**[Codrlabs](https://codrlabs.com)** — Custom software development for small businesses and creators. We build web apps, mobile solutions, and digital products that help our clients grow.
 
 **[SpeakshApp](https://codrlabs.com/speakshapp)** — Personalized micro-learning app for English learners. Build natural fluency in just 10-15 minutes daily through intelligent practice, adaptive spaced repetition, and sentence patterns. No rigid lessons—just real-world progress.
 
