@@ -33,7 +33,7 @@ Active contributor to [Nasqueron](https://devcentral.nasqueron.org/), supporting
 
 ## 📫 Let's Connect
 
-- **Email:** [hello@inidal.dev](mailto:hello@inidal.dev)
+- **Email:** [eli@eon.observer](mailto:eli@eon.observer)
 - **LinkedIn:** [linkedin.com/in/ieli](https://www.linkedin.com/in/ieli/)
 - **Work Email:** [hello@codrlabs.com](mailto:hello@codrlabs.com)
 
